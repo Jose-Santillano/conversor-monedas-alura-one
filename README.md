@@ -19,6 +19,8 @@ El proyecto esta creado con las siguientes tecnologías:
 ## Para más información
 
 Documentación de la API: https://www.exchangerate-api.com/docs/java-currency-api
+
 Documentación de la API y Divisas: https://www.exchangerate-api.com/docs/supported-currencies
+
 Documentación de GSON: https://search.maven.org/artifact/com.google.code.gson/gson/2.10.1/jar?eh=
 
